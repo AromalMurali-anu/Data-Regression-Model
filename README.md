@@ -36,7 +36,7 @@ DATA-REGRESSION-MODEL/
 
 Clone the repository:
 
-git clone https://github.com/your-username/DATA-REGRESSION-MODEL.git
+git clone https:https://github.com/AromalMurali-anu
 cd DATA-REGRESSION-MODEL
 
 
